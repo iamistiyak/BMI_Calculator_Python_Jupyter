@@ -11,4 +11,4 @@
 | 18.5<=BMI<=25 | Normal weight |
 | 25<BMI<=30 | Overweight |
 | 30<BMI<=40 | Obese. |
-| BMI>40 | severely obese|<br><br>
+| BMI>40 | Severely obese|<br><br>
