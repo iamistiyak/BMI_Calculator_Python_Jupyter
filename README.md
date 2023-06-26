@@ -12,3 +12,7 @@
 | 25<BMI<=30 | Overweight |
 | 30<BMI<=40 | Obese. |
 | BMI>40 | Severely obese|<br><br>
+
+
+https://github.com/iamistiyak/BMI_Calculator_Python_Jupyter/assets/86108816/0ae56e77-b8bd-4822-aa45-0b34257bcd4e
+
